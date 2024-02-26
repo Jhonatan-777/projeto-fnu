@@ -5,7 +5,7 @@
 Projeto web-site nome/marca FNUAy.
 Esse projeto foi desenvolvido utilizando HTML, CSS e JavaScript.
 
-> Acesse em: [FNUAy](https://projeto-palpitafacil-8h6i.vercel.app/ "Projeto FNUAy")
+> Acesse em: [FNUAy](https://jhonatan-777.github.io/projeto-fnu/ "Projeto FNUAy")
 
 A ideia nesse projeto foi criar um site de conscientização ambiental e luta contra o desmatamento. Utilizei Html, CSS e JavaScript para o desenvolver.
 
